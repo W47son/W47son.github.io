@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: es-ES
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
 prefer_datetime_locale:
@@ -23,7 +23,7 @@ timezone: Europe/Madrid
 
 title: W4tson                          # the main title
 
-tagline: Blue Team | Cibersecurity student | CSIO   # it will display as the sub-title
+tagline: Blue Team | Cybersecurity student | CSIO   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Blog sobre ciberseguridad centrada en blue team.
@@ -35,7 +35,7 @@ github:
   username: w47son             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: W4tson_Blue            # change to your twitter username
 
 social:
   # Change to your full name.
