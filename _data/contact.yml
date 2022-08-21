@@ -11,6 +11,10 @@
   icon: 'fa fa-cloud'
   url: 'https://tryhackme.com/p/johnWat'
 -
+  type: cyberdefenders
+  icon: 'fa fa-user-secret'
+  url: 'https://cyberdefenders.org/profile/W4tson'
+-
   type: linkedin
   icon: 'fab fa-linkedin'
   url: 'https://www.linkedin.com/'
