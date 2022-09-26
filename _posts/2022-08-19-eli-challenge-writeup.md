@@ -1,6 +1,6 @@
 ---
 title: Eli Forensics Challenge | CyberDefenders
-date: 2020-08-21 18:00:00 +0200
+date: 2022-08-21 18:00:00 +0200
 categories: [CTF,Forensics]
 tags: [CyberDefenders,CTF,Forensics,Chromebook,Takeout]
 image:
