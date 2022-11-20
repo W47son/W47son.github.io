@@ -140,6 +140,32 @@ Tienen pocos retos y hay muy pocos que requieran VIP y cuesta unos *$17*.
 
 Puntuación: ★★★★✰
 
+## 6.Cybrary
+![Logo cybrary]({{ 'assets/img/commons/learn-blueteam/cybrary/LOGOcybrary.png' | relative_url }}){: width="450" height="450" .center-image }
+<br/>
+<br/>
+**<a href="https://www.cybrary.it/">Cybrary</a>** es una plataforma en la que tiene una variedad de cursos que puedes ver tanto con su página web como con su aplicación móvil. En lo que destacan mucho son con los cursos centrados en el MITRE ATT&CK Framework. También tiene un path de SOC Analyst aunque pocos cursos son gratis.
+<br/>
+![Index cybrary]({{ 'assets/img/commons/learn-blueteam/cybrary/cybraryIndex.png' | relative_url }}){: width="750" height="750" .center-image }
+<br/>
+<br/>
+Como vemos tenemos varios cursos de MITRE y además todos gratis
+<br/>
+![Cursos MITRE]({{ 'assets/img/commons/learn-blueteam/cybrary/cybraryCursosMITRE.png' | relative_url }}){: width="750" height="750" .center-image }
+<br/>
+<br/>
+Para darnos una base de MITRE empezaríamos con el curso de Fundamentals
+<br/>
+![MITRE fundamentals]({{ 'assets/img/commons/learn-blueteam/cybrary/cybraryMITRE.png' | relative_url }}){: width="750" height="750" .center-image }
+<br/>
+![MITRE fundamentals2]({{ 'assets/img/commons/learn-blueteam/cybrary/cybraryMITRE2.png' | relative_url }}){: width="750" height="750" .center-image }
+<br/>
+<br/>
+
+Si quieres aprender sobre el MITRE ATT&CK esta plataforma es la ideal<br/>
+Para el resto, algún curso puede estar bien pero no es muy viable a largo plazo porque su mensualidad cuesta *$59*.
+
+Puntuación: ★★★✰✰
 
 ## Bonus
 ### HackTheBox
