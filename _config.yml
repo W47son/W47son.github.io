@@ -23,7 +23,7 @@ timezone: Europe/Madrid
 
 title: W4tson                          # the main title
 
-tagline: Blue Team | Cybersecurity student | CSIO   # it will display as the sub-title
+tagline: Blue Team | Certified Cyberdefender | CSIO   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Blog sobre ciberseguridad centrada en blue team.

@@ -9,9 +9,9 @@ order: 4
 
 Me gusta programar casi cualquier cosa y entender el por qué funciona. Siempre estoy tratando de estar informado y poner en practica todo lo aprendido.
 
-Actualmente estoy aprendiendo de hacking con CTFs. Llevo 2 años practicando en plataformas online como TryHackMe en la cual estoy en el top 1000 con nivel 1337.
+Actualmente llevo más de 2 años practicando hacking en plataformas online como TryHackMe, Cyberdefenders, BTLO o LetsDefend donde estoy de los puestos TOP.
 
-Mi objetivo con este blog es darle mas visibilidad al Blue Team en Español y poder compartir mi conocimiento sobre CTFs sobre:
+Mi objetivo con este blog es darle más visibilidad al Blue Team en Español y poder compartir mi conocimiento sobre:
 
 * Malware Analysis
 * Threat Intel
