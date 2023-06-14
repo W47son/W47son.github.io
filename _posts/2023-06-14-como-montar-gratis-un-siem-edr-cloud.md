@@ -84,7 +84,7 @@ Una vez finalice, en Elastic podremos ver que se ha completado correctamente.
 ![Fleet Completado Windows ]({{ 'assets/img/commons/elastic-setup/12fleet.png' | relative_url }}){: width="850" height="850" .center-image }
 
 
-# Instalación de Sysmon - HIDS
+# Instalación de Sysmon 
 
 **Sysmon** es una utilidad que **monitorea Windows** de una forma la cual te provee de logs con información detallada sobre procesos, conexiones de red y más. Es uno de los mejores logs para investigar.
 
@@ -110,7 +110,7 @@ Get-Service | findstr 'Sysmon'
 
 ![Sysmon Windows]({{ 'assets/img/commons/elastic-setup/15sysmon.png' | relative_url }}){: width="550" height="550" .center-image }
 
-Con esto hemos instalado el HIDS Sysmon y nos hace falta poder enviarlo a Elastic
+Con esto hemos instalado Sysmon y nos hace falta poder enviarlo a Elastic
 
 
 # Instalación de Integraciones
